@@ -1,2 +1,2 @@
 # landing-page-project
-A landing webpage using CSS flexbox
+A landing page using CSS flexbox
