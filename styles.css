@@ -198,7 +198,7 @@ second section where the four images are (services)
     padding: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 
